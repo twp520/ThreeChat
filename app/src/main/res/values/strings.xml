@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ThreeChat</string>
+    <string name="login_tip">选择一个用户登陆</string>
+</resources>
